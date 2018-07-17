@@ -1,0 +1,164 @@
+# Created at 2018-07-13T19:02:43.897
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:122)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created at 2018-07-13T19:02:44.075
+Unexpected IOException: 5,1,practice_JAVA.Array_Compare_Two_Arrays,compare_arrays(practice_JAVA.Array_Compare_Two_Arrays),practice_JAVA.Array_Compare_Two_Arrays,null,null
+
+
+# Created at 2018-07-13T19:02:44.098
+Unexpected IOException with stream: Identical Arrays
+
+
+# Created at 2018-07-13T19:02:44.167
+Unexpected IOException: 6,1,practice_JAVA.Array_Compare_Two_Arrays,compare_arrays(practice_JAVA.Array_Compare_Two_Arrays),null,null,null
+
+
+# Created at 2018-07-13T19:02:44.245
+Unexpected IOException: 5,1,practice_JAVA.Array_Copy_to_AnotherArray,copyArrays(practice_JAVA.Array_Copy_to_AnotherArray),practice_JAVA.Array_Copy_to_AnotherArray,null,null
+
+
+# Created at 2018-07-13T19:02:44.260
+Unexpected IOException with stream: After copying the array is :
+
+
+# Created at 2018-07-13T19:02:44.274
+Unexpected IOException with stream: 10 
+
+# Created at 2018-07-13T19:02:44.289
+Unexpected IOException with stream: 20 
+
+# Created at 2018-07-13T19:02:44.303
+Unexpected IOException with stream: 30 
+
+# Created at 2018-07-13T19:02:44.318
+Unexpected IOException with stream: 50 
+
+# Created at 2018-07-13T19:02:44.333
+Unexpected IOException with stream: 70 
+
+# Created at 2018-07-13T19:02:44.349
+Unexpected IOException: 6,1,practice_JAVA.Array_Copy_to_AnotherArray,copyArrays(practice_JAVA.Array_Copy_to_AnotherArray),null,null,null
+
+
+# Created at 2018-07-13T19:02:44.417
+Unexpected IOException: 5,1,practice_JAVA.String_To_StringArray_Reverse,stringToArray(practice_JAVA.String_To_StringArray_Reverse),practice_JAVA.String_To_StringArray_Reverse,null,null
+
+
+# Created at 2018-07-13T19:02:44.432
+Unexpected IOException with stream: hello are you there
+
+
+# Created at 2018-07-13T19:02:44.447
+Unexpected IOException with stream: olleh 
+
+# Created at 2018-07-13T19:02:44.462
+Unexpected IOException with stream: era 
+
+# Created at 2018-07-13T19:02:44.532
+Unexpected IOException with stream: uoy 
+
+# Created at 2018-07-13T19:02:44.546
+Unexpected IOException with stream: ereht 
+
+# Created at 2018-07-13T19:02:44.561
+Unexpected IOException with stream: 
+
+
+# Created at 2018-07-13T19:02:44.576
+Unexpected IOException: 6,1,practice_JAVA.String_To_StringArray_Reverse,stringToArray(practice_JAVA.String_To_StringArray_Reverse),null,null,null
+
+
+# Created at 2018-07-13T19:02:44.658
+Unexpected IOException: 5,1,practice_JAVA.BinarySearch,binarySearch(practice_JAVA.BinarySearch),practice_JAVA.BinarySearch,null,null
+
+
+# Created at 2018-07-13T19:02:44.679
+Unexpected IOException with stream: found the search at 1 index 
+
+
+# Created at 2018-07-13T19:02:44.759
+Unexpected IOException: 6,1,practice_JAVA.BinarySearch,binarySearch(practice_JAVA.BinarySearch),null,null,null
+
+
+# Created at 2018-07-13T19:02:44.843
+Unexpected IOException: 5,1,practice_JAVA.Array_HIGHEST_Element,array_Highest(practice_JAVA.Array_HIGHEST_Element),practice_JAVA.Array_HIGHEST_Element,null,null
+
+
+# Created at 2018-07-13T19:02:44.858
+Unexpected IOException with stream: Highest is 95
+
+
+# Created at 2018-07-13T19:02:44.875
+Unexpected IOException: 6,1,practice_JAVA.Array_HIGHEST_Element,array_Highest(practice_JAVA.Array_HIGHEST_Element),null,null,null
+
+
+# Created at 2018-07-13T19:02:44.993
+Unexpected IOException: 5,1,practice_JAVA.BasicJavaConcepts,printB(practice_JAVA.BasicJavaConcepts),practice_JAVA.BasicJavaConcepts,null,null
+
+
+# Created at 2018-07-13T19:02:45.012
+Unexpected IOException: 5,1,practice_JAVA.BasicJavaConcepts,printB(practice_JAVA.BasicJavaConcepts),practice_JAVA.BasicJavaConcepts,null,null
+
+
+# Created at 2018-07-13T19:02:45.035
+Unexpected IOException with stream: 1
+
+# Created at 2018-07-13T19:02:45.050
+Unexpected IOException with stream: 
+
+
+# Created at 2018-07-13T19:02:45.071
+Unexpected IOException with stream: 1
+
+# Created at 2018-07-13T19:02:45.092
+Unexpected IOException: 6,1,practice_JAVA.BasicJavaConcepts,printB(practice_JAVA.BasicJavaConcepts),null,null,null
+
+
+# Created at 2018-07-13T19:02:45.111
+Unexpected IOException with stream: 
+
+
+# Created at 2018-07-13T19:02:45.131
+Unexpected IOException: 5,1,practice_JAVA.BasicJavaConcepts,printA(practice_JAVA.BasicJavaConcepts),practice_JAVA.BasicJavaConcepts,null,null
+
+
+# Created at 2018-07-13T19:02:45.153
+Unexpected IOException: 6,1,practice_JAVA.BasicJavaConcepts,printB(practice_JAVA.BasicJavaConcepts),null,null,null
+
+
+# Created at 2018-07-13T19:02:45.174
+Unexpected IOException with stream: 0.0
+
+# Created at 2018-07-13T19:02:45.198
+Unexpected IOException: 5,1,practice_JAVA.BasicJavaConcepts,printA(practice_JAVA.BasicJavaConcepts),practice_JAVA.BasicJavaConcepts,null,null
+
+
+# Created at 2018-07-13T19:02:45.223
+Unexpected IOException with stream: 
+
+
+# Created at 2018-07-13T19:02:45.247
+Unexpected IOException: 6,1,practice_JAVA.BasicJavaConcepts,printA(practice_JAVA.BasicJavaConcepts),null,null,null
+
+
+# Created at 2018-07-13T19:02:45.277
+Unexpected IOException with stream: 0.0
+
+# Created at 2018-07-13T19:02:45.301
+Unexpected IOException with stream: 
+
+
+# Created at 2018-07-13T19:02:45.325
+Unexpected IOException: 6,1,practice_JAVA.BasicJavaConcepts,printA(practice_JAVA.BasicJavaConcepts),null,null,null
+
+
+# Created at 2018-07-13T19:02:47.335
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

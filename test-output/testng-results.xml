@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="136" started-at="2018-07-13T12:31:30Z" finished-at="2018-07-13T12:31:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="136" started-at="2018-07-13T12:31:30Z" finished-at="2018-07-13T12:31:30Z">
+      <class name="practice_JAVA.Array_Compare_Two_Arrays">
+        <test-method status="PASS" signature="compare_arrays()[pri:0, instance:practice_JAVA.Array_Compare_Two_Arrays@2344fc66]" name="compare_arrays" duration-ms="42" started-at="2018-07-13T18:01:30Z" finished-at="2018-07-13T18:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare_arrays -->
+      </class> <!-- practice_JAVA.Array_Compare_Two_Arrays -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

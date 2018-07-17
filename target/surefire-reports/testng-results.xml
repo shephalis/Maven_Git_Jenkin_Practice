@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="151" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="151" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+      <class name="practice_JAVA.Array_Compare_Two_Arrays">
+        <test-method status="PASS" signature="compare_arrays()[pri:0, instance:practice_JAVA.Array_Compare_Two_Arrays@2c6a3f77]" name="compare_arrays" duration-ms="52" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare_arrays -->
+      </class> <!-- practice_JAVA.Array_Compare_Two_Arrays -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite (1)" duration-ms="5" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+      <class name="practice_JAVA.BinarySearch">
+        <test-method status="PASS" signature="binarySearch()[pri:0, instance:practice_JAVA.BinarySearch@737996a0]" name="binarySearch" duration-ms="2" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- binarySearch -->
+      </class> <!-- practice_JAVA.BinarySearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite name="Suite (0)" duration-ms="4" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+      <class name="practice_JAVA.Array_Copy_to_AnotherArray">
+        <test-method status="PASS" signature="copyArrays()[pri:0, instance:practice_JAVA.Array_Copy_to_AnotherArray@3551a94]" name="copyArrays" duration-ms="2" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- copyArrays -->
+      </class> <!-- practice_JAVA.Array_Copy_to_AnotherArray -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite name="Suite (3)" duration-ms="16" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+    <groups>
+    </groups>
+    <test name="Test_PrintB" duration-ms="16" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+      <class name="practice_JAVA.BasicJavaConcepts">
+        <test-method status="PASS" signature="printB()[pri:0, instance:practice_JAVA.BasicJavaConcepts@4590c9c3]" name="printB" duration-ms="1" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printB -->
+        <test-method status="PASS" signature="printA()[pri:1, instance:practice_JAVA.BasicJavaConcepts@4590c9c3]" name="printA" duration-ms="1" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printA -->
+      </class> <!-- practice_JAVA.BasicJavaConcepts -->
+    </test> <!-- Test_PrintB -->
+    <test name="Test_PrintA" duration-ms="15" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+      <class name="practice_JAVA.BasicJavaConcepts">
+        <test-method status="PASS" signature="printB()[pri:0, instance:practice_JAVA.BasicJavaConcepts@61a485d2]" name="printB" duration-ms="2" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printB -->
+        <test-method status="PASS" signature="printA()[pri:1, instance:practice_JAVA.BasicJavaConcepts@61a485d2]" name="printA" duration-ms="1" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printA -->
+      </class> <!-- practice_JAVA.BasicJavaConcepts -->
+    </test> <!-- Test_PrintA -->
+  </suite> <!-- Suite (3) -->
+  <suite name="Suite (2)" duration-ms="6" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+      <class name="practice_JAVA.Array_HIGHEST_Element">
+        <test-method status="PASS" signature="array_Highest()[pri:0, instance:practice_JAVA.Array_HIGHEST_Element@26f67b76]" name="array_Highest" duration-ms="1" started-at="2018-07-16T17:22:00Z" finished-at="2018-07-16T17:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- array_Highest -->
+      </class> <!-- practice_JAVA.Array_HIGHEST_Element -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (2) -->
+</testng-results>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="practice_JAVA.Array_Copy_to_AnotherArray">
+        <methods>
+          <include name="copyArrays"/>
+        </methods>
+      </class> <!-- practice_JAVA.Array_Copy_to_AnotherArray -->
+      <class name="practice_JAVA.String_To_StringArray_Reverse">
+        <methods>
+          <include name="stringToArray"/>
+        </methods>
+      </class> <!-- practice_JAVA.String_To_StringArray_Reverse -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
