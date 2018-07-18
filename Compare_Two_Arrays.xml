@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite">
-  <test name="Test">
+<suite name="Suite_Compare_Two_Arrays">
+  <test name="Test_Array_Compare">
     <classes>
       <class name="practice_JAVA.Array_Compare_Two_Arrays"/>
     </classes>
