@@ -36,8 +36,6 @@
 						<suiteXmlFile>BinarySearch_algo.xml</suiteXmlFile>
 						<suiteXmlFile>Highest_arrayElement.xml</suiteXmlFile>
 						<suiteXmlFile>BasicJavaConcepts_Parellel.xml</suiteXmlFile>
-
-
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
